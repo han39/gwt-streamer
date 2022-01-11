@@ -1,12 +1,11 @@
 package com.googlecode.gwtstreamer.client.std;
 
-import com.googlecode.gwtstreamer.client.Streamer;
-import com.googlecode.gwtstreamer.client.impl.ReadContext;
-import com.googlecode.gwtstreamer.client.impl.WriteContext;
-
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.Date;
+import com.googlecode.gwtstreamer.client.Streamer;
+import com.googlecode.gwtstreamer.client.impl.ReadContext;
+import com.googlecode.gwtstreamer.client.impl.WriteContext;
 
 public class SimpleStreamers {
 	public static class IntegerStreamer extends Streamer {

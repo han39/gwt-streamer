@@ -1,8 +1,14 @@
 package com.googlecode.gwtstreamer.client;
 
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Map;
+import java.util.Set;
+import java.util.SortedMap;
+import java.util.SortedSet;
+import java.util.TreeMap;
+import java.util.TreeSet;
 import com.googlecode.gwtstreamer.client.impl.Base64PackedStreamFactory;
-
-import java.util.*;
 
 /**
  * Object to apply custom streamer configuration

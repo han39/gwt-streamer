@@ -1,12 +1,11 @@
 package com.googlecode.gwtstreamer.client.std;
 
+import java.util.ArrayList;
+import java.util.List;
 import com.googlecode.gwtstreamer.client.Streamer;
 import com.googlecode.gwtstreamer.client.StreamerException;
 import com.googlecode.gwtstreamer.client.impl.ReadContext;
 import com.googlecode.gwtstreamer.client.impl.WriteContext;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Structure streamer. Generator creates extended version of this for every class.

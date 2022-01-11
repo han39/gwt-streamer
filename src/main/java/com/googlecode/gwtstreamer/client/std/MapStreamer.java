@@ -1,11 +1,10 @@
 package com.googlecode.gwtstreamer.client.std;
 
+import java.util.Map;
 import com.googlecode.gwtstreamer.client.Streamer;
 import com.googlecode.gwtstreamer.client.StreamerException;
 import com.googlecode.gwtstreamer.client.impl.ReadContext;
 import com.googlecode.gwtstreamer.client.impl.WriteContext;
-
-import java.util.Map;
 
 public abstract class MapStreamer extends Streamer {
 	@Override

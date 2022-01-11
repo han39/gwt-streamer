@@ -1,10 +1,5 @@
 package com.googlecode.gwtstreamer.server;
 
-import java.util.Collection;
-import java.util.Map;
-import java.util.Properties;
-
-import com.googlecode.gwtstreamer.client.StreamFactory;
 import com.googlecode.gwtstreamer.client.Streamer;
 import com.googlecode.gwtstreamer.client.StreamerConfig;
 import com.googlecode.gwtstreamer.client.StreamerException;

@@ -1,9 +1,8 @@
 package com.googlecode.gwtstreamer.client.impl;
 
+import java.io.UnsupportedEncodingException;
 import com.googlecode.gwtstreamer.client.StreamFactory;
 import com.googlecode.gwtstreamer.client.StreamerException;
-
-import java.io.UnsupportedEncodingException;
 
 /**
  * Created by akuranov on 26/01/2015.

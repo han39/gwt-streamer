@@ -2,9 +2,21 @@ package com.googlecode.gwtstreamer.client;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
-import java.util.*;
-
-import com.googlecode.gwtstreamer.client.impl.*;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.IdentityHashMap;
+import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
+import java.util.Map;
+import java.util.TreeMap;
+import java.util.TreeSet;
+import java.util.Vector;
+import com.googlecode.gwtstreamer.client.impl.ReadContext;
+import com.googlecode.gwtstreamer.client.impl.StreamerInternal;
+import com.googlecode.gwtstreamer.client.impl.WriteContext;
 import com.googlecode.gwtstreamer.client.std.CollectionStreamers;
 import com.googlecode.gwtstreamer.client.std.ObjectStreamer;
 import com.googlecode.gwtstreamer.client.std.SimpleArrayStreamers.BooleanArrayStreamer;

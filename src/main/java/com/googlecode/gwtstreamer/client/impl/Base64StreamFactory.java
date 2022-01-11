@@ -1,11 +1,10 @@
 package com.googlecode.gwtstreamer.client.impl;
 
-import com.googlecode.gwtstreamer.client.StreamFactory;
-import com.googlecode.gwtstreamer.client.StreamerException;
-
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
+import com.googlecode.gwtstreamer.client.StreamFactory;
+import com.googlecode.gwtstreamer.client.StreamerException;
 
 
 public class Base64StreamFactory implements StreamFactory 

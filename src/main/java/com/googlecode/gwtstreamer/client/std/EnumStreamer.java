@@ -1,6 +1,5 @@
 package com.googlecode.gwtstreamer.client.std;
 
-import com.googlecode.gwtstreamer.client.StreamFactory;
 import com.googlecode.gwtstreamer.client.Streamer;
 import com.googlecode.gwtstreamer.client.impl.ReadContext;
 import com.googlecode.gwtstreamer.client.impl.WriteContext;

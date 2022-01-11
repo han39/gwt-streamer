@@ -1,10 +1,10 @@
 package com.googlecode.gwtstreamer.client.impl;
 
+import java.util.ArrayList;
+import java.util.List;
 import com.googlecode.gwtstreamer.client.StreamFactory;
 import com.googlecode.gwtstreamer.client.Streamer;
 import com.googlecode.gwtstreamer.client.StreamerException;
-
-import java.util.*;
 
 public final class ReadContext extends Context implements StreamFactory.Reader
 {

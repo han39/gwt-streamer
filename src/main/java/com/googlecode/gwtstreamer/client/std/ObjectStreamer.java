@@ -1,9 +1,8 @@
 package com.googlecode.gwtstreamer.client.std;
 
+import java.util.List;
 import com.googlecode.gwtstreamer.client.impl.ReadContext;
 import com.googlecode.gwtstreamer.client.impl.WriteContext;
-
-import java.util.List;
 
 /**
  * Created by akuranov on 28/01/2015.
